@@ -4,12 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-python-dotenv = "*"
 instagrapi = "*"
 pillow = "*"
 webdriver-manager = "*"
 selenium-stealth = "*"
 setuptools = "*"
+python-dotenv = "*"
+undetected-chromedriver = "*"
 
 [dev-packages]
 
